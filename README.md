@@ -12,7 +12,7 @@ Open PDF in Word, copy table to Excel and save as CSV (probably easier ways to d
 
 Name output CSV to `alpha csv.csv` and put in the same directory as `reader.py`.
 
-Run `./reader.py` and copy resulting `alphaess_registers.json`.
+Run `./reader.py` and copy resulting `registers.json`.
 
 ## Notes
 
